@@ -1,0 +1,19 @@
+{
+  "name": "githug-app",
+  "version": "1.0.0",
+  "description": "GitHug App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githugtech/githug.git"
+  },
+  "author": "fatihacarm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/githugtech/githug/issues"
+  },
+  "homepage": "https://github.com/githugtech/githug#readme"
+}
